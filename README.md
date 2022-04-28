@@ -1,4 +1,15 @@
-# proyecto-mock
+# movie-finder
+
+## Project name
+```
+Movie real-time Finder:
+This is a Movie Finder that calls an API, built with Vuejs.
+```
+
+## Contact Info
+```
+marcelrm11@gmail.com || Marcel Roig Medina
+```
 
 ## Project setup
 ```
